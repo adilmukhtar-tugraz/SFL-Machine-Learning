@@ -1,0 +1,54 @@
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/C:/Users/Adil%20Mukhtar/Desktop/SFLspreadsheets-master/lib/choco-solver-cpviz-2.1.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/C:/Users/Adil%20Mukhtar/Desktop/SFLspreadsheets-master/lib/slf4j-1.7.6/slf4j-android-1.7.6.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/C:/Users/Adil%20Mukhtar/Desktop/SFLspreadsheets-master/lib/slf4j-1.7.6/slf4j-jcl-1.7.6.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/C:/Users/Adil%20Mukhtar/Desktop/SFLspreadsheets-master/lib/slf4j-1.7.6/slf4j-jdk14-1.7.6.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/C:/Users/Adil%20Mukhtar/Desktop/SFLspreadsheets-master/lib/slf4j-1.7.6/slf4j-log4j12-1.7.6.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/C:/Users/Adil%20Mukhtar/Desktop/SFLspreadsheets-master/lib/slf4j-1.7.6/slf4j-nop-1.7.6.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/C:/Users/Adil%20Mukhtar/Desktop/SFLspreadsheets-master/lib/slf4j-1.7.6/slf4j-simple-1.7.6.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+adding coefficient.
+adding coefficient.
+adding coefficient.
+adding coefficient.
+adding coefficient.
+adding coefficient.
+adding coefficient.
+adding coefficient.
+adding coefficient.
+adding coefficient.
+adding coefficient.
+adding coefficient.
+adding coefficient.
+adding coefficient.
+adding coefficient.
+adding coefficient.
+adding coefficient.
+adding coefficient.
+adding coefficient.
+adding coefficient.
+adding coefficient.
+adding coefficient.
+adding coefficient.
+adding coefficient.
+adding coefficient.
+adding coefficient.
+adding coefficient.
+adding coefficient.
+adding coefficient.
+adding coefficient.
+adding coefficient.
+adding coefficient.
+adding coefficient.
+adding coefficient.
+adding coefficient.
+adding coefficient.
+adding coefficient.
+adding coefficient.
+adding coefficient.
+adding coefficient.
+adding coefficient.
+adding coefficient.
+adding coefficient.
+[at.tugraz.ist.debugging.spectrumbased.similaritycoefficients.Interest@239963d8, at.tugraz.ist.debugging.spectrumbased.similaritycoefficients.YulesQ@3abbfa04, at.tugraz.ist.debugging.spectrumbased.similaritycoefficients.Leverage@57fffcd7, at.tugraz.ist.debugging.spectrumbased.similaritycoefficients.JMeasure@31ef45e3, at.tugraz.ist.debugging.spectrumbased.similaritycoefficients.YulesY@598067a5, at.tugraz.ist.debugging.spectrumbased.similaritycoefficients.PiatetskyShapiro@3c0ecd4b, at.tugraz.ist.debugging.spectrumbased.similaritycoefficients.LeastContradiction@14bf9759, at.tugraz.ist.debugging.spectrumbased.similaritycoefficients.Coverage@5f341870, at.tugraz.ist.debugging.spectrumbased.similaritycoefficients.Tarantula@553f17c, at.tugraz.ist.debugging.spectrumbased.similaritycoefficients.OddsRatio@4f7d0008, at.tugraz.ist.debugging.spectrumbased.similaritycoefficients.RogersTanimoto@271053e1, at.tugraz.ist.debugging.spectrumbased.similaritycoefficients.Ochiai@589838eb, at.tugraz.ist.debugging.spectrumbased.similaritycoefficients.Accuracy@42dafa95, at.tugraz.ist.debugging.spectrumbased.similaritycoefficients.PhiCoefficient@6500df86, at.tugraz.ist.debugging.spectrumbased.similaritycoefficients.GoodmanKruskal@402a079c, at.tugraz.ist.debugging.spectrumbased.similaritycoefficients.SorensenDice@59ec2012, at.tugraz.ist.debugging.spectrumbased.similaritycoefficients.Jaccard@4cf777e8, at.tugraz.ist.debugging.spectrumbased.similaritycoefficients.Loevinger@2f686d1f, at.tugraz.ist.debugging.spectrumbased.similaritycoefficients.CollectiveStrength@3fee9989, at.tugraz.ist.debugging.spectrumbased.similaritycoefficients.Laplace@73ad2d6, at.tugraz.ist.debugging.spectrumbased.similaritycoefficients.StatisticalBugIsolation@7085bdee, at.tugraz.ist.debugging.spectrumbased.similaritycoefficients.Conviction@1ce92674, at.tugraz.ist.debugging.spectrumbased.similaritycoefficients.Support@5700d6b1, at.tugraz.ist.debugging.spectrumbased.similaritycoefficients.OddMultiplier@6fd02e5, at.tugraz.ist.debugging.spectrumbased.similaritycoefficients.GiniIndex@5bcab519, at.tugraz.ist.debugging.spectrumbased.similaritycoefficients.OneWaySupport@e45f292, at.tugraz.ist.debugging.spectrumbased.similaritycoefficients.CertaintyFactor@5f2108b5, at.tugraz.ist.debugging.spectrumbased.similaritycoefficients.AddedValue@31a5c39e, at.tugraz.ist.debugging.spectrumbased.similaritycoefficients.Klosgen@3f49dace, at.tugraz.ist.debugging.spectrumbased.similaritycoefficients.InterestingnessWeightingDependency@1e397ed7, at.tugraz.ist.debugging.spectrumbased.similaritycoefficients.SimpleMatching@490ab905, at.tugraz.ist.debugging.spectrumbased.similaritycoefficients.Zhang@56ac3a89, at.tugraz.ist.debugging.spectrumbased.similaritycoefficients.RelativeRisk@27c20538, at.tugraz.ist.debugging.spectrumbased.similaritycoefficients.SebagSchoenauer@72d818d1, at.tugraz.ist.debugging.spectrumbased.similaritycoefficients.NormalizedMutualInformation@6e06451e, at.tugraz.ist.debugging.spectrumbased.similaritycoefficients.Ochiai2@59494225, at.tugraz.ist.debugging.spectrumbased.similaritycoefficients.Confidence@6e1567f1, at.tugraz.ist.debugging.spectrumbased.similaritycoefficients.Anderberg@5cb9f472, at.tugraz.ist.debugging.spectrumbased.similaritycoefficients.InformationGain@cb644e, at.tugraz.ist.debugging.spectrumbased.similaritycoefficients.ExampleCounterexampleRate@13805618, at.tugraz.ist.debugging.spectrumbased.similaritycoefficients.TwoWaySupport@56ef9176, at.tugraz.ist.debugging.spectrumbased.similaritycoefficients.Kappa@4566e5bd, at.tugraz.ist.debugging.spectrumbased.similaritycoefficients.TwoWaySupportVariation@1ed4004b]
+[]
